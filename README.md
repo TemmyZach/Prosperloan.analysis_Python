@@ -1,4 +1,4 @@
-# Prosperloan.analysis_Python
+# Prosper Loan Analysis (Python)
 This is an Exploratory Data Analysis (EDA) performed on the Prosper Loan Dataset to understand borrower behaviours and their impact on the trends in the loan market. Prosper Loan is a leading marketplace lending company in the United States that has funded over $9 billion in loans. It's loan listing dataset which was sourced from Udacity contains information on the loan origination, borrowers characteristics and lenders activities from 2005 to 2015. With this dataset, a proper analysis can be done to understand borrower behaviours and their impact on the trends in the loan market.
 
 #  Features and Structures
